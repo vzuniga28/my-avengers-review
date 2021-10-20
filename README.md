@@ -1,3 +1,3 @@
-# [TITLE OF YOUR WEBPAGE] 
+# Perfectly Balanced 
 
-[Link to my webpage on the Web]([INCLUDE THE LINK HERE])
+[Link to my webpage on the Web](file:///Users/victorzuniga/Downloads/new-age-template/index.html#reviews)
